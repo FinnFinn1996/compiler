@@ -1,0 +1,8 @@
+
+(65,return)  (64,sizeof)  (63,default)  (62,break)  (61,continue)  
+(60,goto)  (59,while)  (58,do)  (57,for)  (56,case)  
+(55,switch)  (54,else)  (53,if)  (52,void)  (51,volatile)  
+(50,static)  (49,register)  (48,extern)  (47,signed)  (46,unsigned)  
+(45,const)  (44,typedef)  (43,enum)  (42,union)  (41,struct)  
+(40,char)  (39,double)  (38,float)  (37,long)  (36,int)  
+(35,short)  (34,auto)  
